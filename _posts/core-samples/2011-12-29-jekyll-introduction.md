@@ -11,14 +11,19 @@ Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 
 ## Overview
 
-### What is Jekyll?
+### Who are we
 
-Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
-dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator".
+We are some students learning in Shenzhen Univ. All of us want to learn well in algorithms and data structure and devote our life to science research in about few years later.
+We are working on provide tools for acmer to make their competition easier, list our problem set and attending contest.
+Thanks for your attention! 
+### Problems We've Done
 
-### Examples
-
-This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
+[POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp)  [POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp) 
+[POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp)  [POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp) 
+[POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp)  [POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp) 
+[POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp)  [POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp) 
+[POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp)  [POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp) 
+[POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp)  [POJ.1003](http://szuacm.qiniudn.com/POJ.1003.cpp) 
 
 
 
